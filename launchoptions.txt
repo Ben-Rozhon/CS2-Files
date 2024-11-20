@@ -1,1 +1,1 @@
-cl_forcepreload -refresh 165 -full -h 1440 -w 1080 -high -nojoy -language English +exec autoexec -forcenovsync
+-high -nojoy +exec autoexec
